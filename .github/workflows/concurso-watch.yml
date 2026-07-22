@@ -1,0 +1,54 @@
+name: Monitor de Concursos de TI
+
+on:
+  schedule:
+    # Toda segunda-feira às 09:00 (horário de Brasília = UTC-3, então 12:00 UTC)
+    - cron: "0 12 * * 1"
+  workflow_dispatch: {}  # permite rodar manualmente pela aba "Actions" do GitHub
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout do repositório
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Instalar dependências
+        run: pip install google-genai duckduckgo_search
+
+      - name: Rodar o monitor de concursos
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python3 scripts/concurso_watch.py
+
+      - name: Commitar o novo relatório no repositório
+        run: |
+          git config user.name "concurso-watch-bot"
+          git config user.email "actions@github.com"
+          git add reports/
+          git diff --cached --quiet || git commit -m "Atualiza relatório de concursos $(date +%Y-%m-%d)"
+          git push
+
+      - name: Abrir uma Issue com o relatório (gera notificação por e-mail)
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const content = fs.readFileSync('reports/latest.md', 'utf8');
+            const today = new Date().toISOString().slice(0, 10);
+            await github.rest.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title: `Monitor de Concursos de TI — ${today}`,
+              body: content,
+              labels: ["concurso-watch"],
+            });
