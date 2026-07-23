@@ -23,12 +23,14 @@ jobs:
           python-version: "3.12"
 
       - name: Instalar dependências
-        run: pip install google-genai duckduckgo_search
+        run: |
+          pip install --upgrade pip
+          pip install google-genai ddgs
 
       - name: Rodar o monitor de concursos
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-        run: python3 scripts/concurso_watch.py
+        run: python scripts/concurso_watch.py
 
       - name: Commitar o novo relatório no repositório
         run: |

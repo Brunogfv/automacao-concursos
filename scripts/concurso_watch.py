@@ -30,10 +30,13 @@ except ImportError:
     sys.exit(1)
 
 try:
-    from duckduckgo_search import DDGS
+    from ddgs import DDGS
 except ImportError:
-    print("Faltou instalar a biblioteca: pip install duckduckgo_search")
-    sys.exit(1)
+    try:
+        from duckduckgo_search import DDGS
+    except ImportError:
+        print("Faltou instalar a biblioteca: pip install ddgs")
+        sys.exit(1)
 
 ROOT = Path(__file__).resolve().parent.parent
 PROMPT_PATH = ROOT / "prompt.md"
