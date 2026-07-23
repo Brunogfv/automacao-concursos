@@ -67,7 +67,7 @@ automacao-concursos/
 
 1. Instale as dependências Python:
    ```bash
-   pip install google-genai duckduckgo_search
+   pip install google-genai ddgs
    ```
 
 2. Defina sua chave de API como variável de ambiente (adicione ao `~/.bashrc` ou `~/.zshrc`
