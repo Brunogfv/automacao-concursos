@@ -1,70 +1,64 @@
-# Monitor de Concursos de TI — Atualização de 2026-09-21
+# Monitor de Concursos de TI — Atualização de 2026-10-26
 
 ## Resumo rápido
-O cenário atual aponta que os concursos regionais mais importantes (TRF5, TRT6 e ATI-PE) já concluíram suas etapas de prova e estão em fase de homologação, divulgação de resultados ou convocação. O concurso da Dataprev (Edital 2026) está com inscrições encerradas e provas iminentes para outubro de 2026. Os grandes focos futuros e ideais para o cronograma de formação do Bruno são os concursos do Banco do Nordeste (BNB) e da Petrobras, ambos em fase de estudos e planejamento pré-edital.
+O principal destaque recente é o concurso da **Dataprev (Edital 1/2026)**, publicado em julho de 2026 pela FGV com mais de 1.800 vagas (imediatas e CR). Por outro lado, os concursos regionais do **TRT6**, **TRF5** e **ATI-PE** encontram-se em fases pós-edital (resultados divulgados, convocações do cadastro de reserva ou validade prorrogada). Quanto a **Petrobras** e **Banco do Nordeste**, ambos permanecem apenas no horizonte de previsão para novos editais, sem inscrições abertas no momento.
 
 ---
 
 ## 1. Banco do Nordeste — Especialista Técnico em TI
-- **Status**: Previsto (edital em estudos para 2026/2027)
-- **Úmula atualização relevante**: Setembro de 2026 (movimentações internas e diálogos com bancas organizadoras após expiração do certame anterior)
-- **Vagas / Salário / Escolaridade / Banca**: ~90 vagas previstas / Salário inicial não especificado para Especialista (R$ 3.788,00 + benefícios era o valor do cargo médio) / Nível Superior / Banca em definição
-- **Datas importantes**: Sem datas definidas (fase de estudos e contratação de banca)
-- **Fonte**: Gran Cursos Online (blog de cursinho): https://blog.grancursosonline.com.br/concurso-banco-do-nordeste-edital-em-estudo-2026/ e Nova Concursos (blog de cursinho): https://www.novaconcursos.com.br/portal/concursos/concurso-bnb/
-- **Confiança**: Ainda é previsão/especulação de imprensa especializada
+- Status: Previsto (em estudo/especulação para 2026/2027)
+- Última atualização relevante: Outubro de 2026 (declarações de dirigentes apontando previsão de novo edital para 2027)
+- Vagas / Salário / Escolaridade / Banca: Estimativa de até 400 vagas (com oportunidades em TI); Salário até R$ 6.000,00; Nível Médio/Superior; Banca especulada: Fundação Cesgranrio
+- Datas importantes: Sem datas definidas
+- Fonte: Blog do Gran Cursos (blog de cursinho: https://blog.grancursosonline.com.br/concurso-banco-do-nordeste/) / Certou
+- Confiança: Ainda é previsão/especulação de imprensa especializada
 
 ## 2. Petrobras — Analista de Sistemas
-- **Status**: Previsto (estudos de planejamento pré-edital)
-- **Última atualização relevante**: 18 de agosto de 2026
-- **Vagas / Salário / Escolaridade / Banca**: Vagas a definir / Salário não especificado / Nível Superior / Banca historicamente Cesgranrio (não definida formalmente para o próximo)
-- **Datas importantes**: Sem datas definidas (indícios de preparação de ciclo de estudos pré-edital)
-- **Fonte**: Qconcursos (blog de cursinho): https://www.qconcursos.com.br/concursos/petroleo-brasileiro-s-a e Estratégia Concursos (blog de cursinho): https://www.estrategiaconcursos.com.br/blog/concurso-petrobras/
-- **Confiança**: Ainda é previsão/especulação de imprensa especializada
+- Status: Previsto / Banca definida
+- Última atualização relevante: 2026 (confirmação do contrato vigente da estatal com a Fundação Cesgranrio até 2028)
+- Vagas / Salário / Escolaridade / Banca: Previsão geral de 500 a 1.400 vagas (Engenheiro e Analista de Sistemas); Salários de R$ 12.000,00 a R$ 22.000,00; Nível Superior; Banca: Fundação Cesgranrio
+- Datas importantes: Edital ainda não publicado; sem datas definidas
+- Fonte: Educa Mais Brasil (blog de cursinho: https://educamaisbrasil.blog.br/) / Folha QConcursos
+- Confiança: Ainda é previsão/especulação de imprensa especializada
 
 ## 3. TRF5
-- **Status**: Cadastro de reserva em convocação / Resultados finais homologados
-- **Última atualização relevante**: 21 de setembro de 2026 (atualização oficial de cargos vagos e nomeações)
-- **Vagas / Salário / Escolaridade / Banca**: Cadastro de Reserva para TI (com mais de 200 nomeações realizadas em toda a 5ª Região) / Salários reajustados para 2026 / Nível Superior / IBFC (organizadora do último certame)
-- **Datas importantes**: Inscrições e provas já realizadas (resultados finais publicados)
-- **Fonte**: Portal oficial do TRF5: https://www.trf5.jus.br/index.php/servidores-e-nomeacoes e Estratégia Concursos (blog de cursinho): https://www.estrategiaconcursos.com.br/blog/concurso-trf5/
-- **Confiança**: Confirmado oficialmente
+- Status: Sem edital para servidor em TI / Validade do último concurso prorrogada até 2028
+- Última atualização relevante: 28 de setembro de 2026 (prorrogação oficial da validade do concurso de Técnicos em TI)
+- Vagas / Salário / Escolaridade / Banca: Sem concurso aberto para Analistas/Técnicos de TI (última seleção organizada pela IBFC)
+- Datas importantes: Nenhuma data de inscrição ou prova para TI no momento
+- Fonte: Portal Ache Concursos (https://www.acheconcursos.com.br/noticias/concurso-trf-5-e-prorrogado-ate-2028-para-tecnicos-93598) / Blog do Gran Cursos
+- Confiança: Confirmado oficialmente
 
 ## 4. TRT6 (PE)
-- **Status**: Concurso encerrado (provas aplicadas, em fase de homologação/nomeação de aprovados)
-- **Última atualização relevante**: 15 de fevereiro de 2025 (realização das provas em 16/02/2025)
-- **Vagas / Salário / Escolaridade / Banca**: Cadastro de reserva para Técnico e Analista Judiciário / Salários de tribunais federais / Nível Superior / FCC (Fundação Carlos Chagas)
-- **Datas importantes**: Provas aplicadas em 16 de fevereiro de 2025 (inscrições encerradas no final de 2024)
-- **Fonte**: Portal oficial do TRT6: https://www.trt6.jus.br/portal/noticias/2025/02/11/trt-6-realiza-no-proximo-domingo-162-concurso-para-tecnico-e-analista
-- **Confiança**: Confirmado oficialmente
+- Status: Concurso encerrado / Cadastro de reserva em convocação
+- Última atualização relevante: Setembro de 2025 (divulgação do resultado definitivo e primeiras nomeações)
+- Vagas / Salário / Escolaridade / Banca: Edital 01/2024; Salário inicial em torno de R$ 16.000,00 (Analista); Nível Superior; Banca: Fundação Carlos Chagas (FCC)
+- Datas importantes: Provas e etapas encerradas em 2025
+- Fonte: Blog do Gran Cursos (blog de cursinho: https://blog.grancursosonline.com.br/concurso-trt-pe/) / Tec Concursos
+- Confiança: Confirmado oficialmente
 
 ## 5. ATI-PE
-- **Status**: Concurso encerrado (resultados finais divulgados)
-- **Última atualização relevante**: 27 de março de 2026 (divulgação dos resultados finais do certame)
-- **Vagas / Salário / Escolaridade / Banca**: 88 vagas imediatas (dentro do Concurso Unificado de PE) / Salário inicial de até R$ 9,9 mil / Nível Superior / Instituto AOCP (organizadora do unificado)
-- **Datas importantes**: Provas e etapas encerradas; resultados publicados em março de 2026
-- **Fonte**: Estratégia Concursos (blog de cursinho): https://www.estrategiaconcursos.com.br/blog/concurso-ati-pe/
-- **Confiança**: Confirmado oficialmente
+- Status: Concurso encerrado / Resultados divulgados
+- Última atualização relevante: 27 de março de 2026 (divulgação dos resultados finais das provas)
+- Vagas / Salário / Escolaridade / Banca: 88 vagas para Analista de Gestão de TI e Comunicação; Nível Superior; Organizado pelo Concurso Público Unificado de Pernambuco (CPU PE)
+- Datas importantes: Provas aplicadas e etapa de resultados concluída no primeiro trimestre de 2026
+- Fonte: Estratégia Concursos (blog de cursinho: https://concursos.estrategia.com/portal/concurso-ati-pe/)
+- Confiança: Confirmado oficialmente
 
 ## 6. Dataprev — Edital 1/2026
-- **Status**: Edital publicado / Inscrições encerradas / Provas iminentes
-- **Última atualização relevante**: 7 de agosto de 2026 (confirmação do encerramento das inscrições e cronograma de provas)
-- **Vagas / Salário / Escolaridade / Banca**: 212 vagas imediatas + 1.611 em cadastro de reserva (vagas distribuídas em vários perfis de TI, incluindo Desenvolvimento de Software) / Salário inicial compatível com nível superior / Nível Superior / FGV (Fundação Getúlio Vargas)
-- **Datas importantes**: Inscrições encerradas em 6 de agosto de 2026. **Aplicação das provas: 11 de outubro de 2026 (das 13h às 17h)**
-- **Fonte**: FGV Conhecimento (página oficial do concurso): https://conhecimento.fgv.br/concursos/dataprev26 e Portal Oficial da Dataprev: https://www.dataprev.gov.br/conheca-dataprev-faca-parte-da-dataprev/concursos
-- **Confiança**: Confirmado oficialmente
+- Status: Edital publicado / Em andamento
+- Última atualização relevante: 3 de julho de 2026 (publicação oficial do Edital 001/2026)
+- Vagas / Salário / Escolaridade / Banca: 212 vagas imediatas + 1.611 no cadastro de reserva (incluindo Desenvolvimento de Software); Salário inicial até R$ 10.600,00; Nível Superior; Banca: FGV Conhecimento
+- Datas importantes: Edital publicado em 03/07/2026 (sem informação nova sobre prazos específicos de prova nos resultados da busca)
+- Fonte: FGV Conhecimento (página oficial da banca: https://conhecimento.fgv.br/concursos/dataprev26)
+- Confiança: Confirmado oficialmente
 
 ---
 
 ## Outras oportunidades encontradas (se houver)
-*Sem novos concursos de TI relevantes com editais abertos mapeados no Nordeste nesta busca.*
+Nenhum outro concurso de TI relevante com vagas abertas ou previstas para a região Nordeste foi identificado durante esta busca.
 
 ---
 
 ## Recomendação de ação
-
-**Nenhuma ação imediata de inscrição é necessária agora.** 
-
-Como as inscrições do concurso da Dataprev já se encerraram em agosto de 2026 e os outros tribunais/órgãos locais (TRT6, TRF5, ATI-PE) já realizaram suas provas, o candidato Bruno deve adotar as seguintes estratégias:
-
-1. **Foco total no médio/longo prazo (BNB e Petrobras)**: Como a formatura em ADS no IFPE está prevista para **dezembro de 2027**, os concursos do Banco do Nordeste (Especialista em TI) e da Petrobras (Analista de TI) apresentam o encaixe temporal perfeito. Ambos estão em fase de estudos pré-edital. Se os editais forem publicados ao longo de 2027, as etapas de homologação e convocação devem coincidir exatamente com a colação de grau de Bruno, permitindo que ele assuma a vaga com o diploma em mãos.
-2. **Estudo de Base**: Recomenda-se iniciar o estudo focado nas matérias recorrentes de Engenharia de Software, Desenvolvimento de Sistemas e Banco de Dados cobradas pelas bancas Cesgranrio (Petrobras) e as prováveis do BNB.
+**Verifique imediatamente a página da FGV referente ao concurso da Dataprev (Edital 001/2026)** para checar a situação atual do cronograma e o andamento das etapas. Como sua formação em ADS no IFPE está prevista para dezembro de 2027, vale lembrar que a comprovação de curso superior/diploma geralmente é exigida apenas no ato da posse. Caso os prazos do edital da Dataprev já tenham avançado, Nenhuma ação imediata de inscrição é necessária agora para os demais órgãos listados.
