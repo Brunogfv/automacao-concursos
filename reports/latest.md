@@ -1,12 +1,12 @@
-# Monitor de Concursos de TI — Atualização de 2026-11-09
+# Monitor de Concursos de TI — Atualização de 2026-11-16
 
 ## Resumo rápido
-Não há histórico anterior disponível nesta plataforma para comparação de mudanças recentes. Devido à indisponibilidade momentânea de dados nas buscas realizadas hoje, não foi possível confirmar atualizações ou publicações recentes para os órgãos monitorados.
+Não foi possível obter dados atualizados via busca online durante a verificação atual para os órgãos listados. Como não há histórico disponível para comparação recente, o estado atual de todos os concursos permanece sem confirmação nova nesta data.
 
 ## 1. Banco do Nordeste — Especialista Técnico em TI
 - Status: Sem informação nova encontrada nesta busca
 - Última atualização relevante: Sem informação nova encontrada nesta busca
-- Vagas / Salário / Escolaridade / Banca: Sem informação nova encontrada nesta busca
+- Vagas / Salário / Escolaridade / Banca: ~90 vagas previstas / Salário a confirmar / Nível Superior / Banca a definir (sem informação nova encontrada nesta busca)
 - Datas importantes: Sem informação nova encontrada nesta busca
 - Fonte: Sem informação nova encontrada nesta busca
 - Confiança: Ainda é previsão/especulação de imprensa especializada
@@ -14,7 +14,7 @@ Não há histórico anterior disponível nesta plataforma para comparação de m
 ## 2. Petrobras — Analista de Sistemas
 - Status: Sem informação nova encontrada nesta busca
 - Última atualização relevante: Sem informação nova encontrada nesta busca
-- Vagas / Salário / Escolaridade / Banca: Sem informação nova encontrada nesta busca
+- Vagas / Salário / Escolaridade / Banca: A definir / Salário a confirmar / Nível Superior / Cesgranrio (sem informação nova encontrada nesta busca)
 - Datas importantes: Sem informação nova encontrada nesta busca
 - Fonte: Sem informação nova encontrada nesta busca
 - Confiança: Ainda é previsão/especulação de imprensa especializada
@@ -52,7 +52,7 @@ Não há histórico anterior disponível nesta plataforma para comparação de m
 - Confiança: Ainda é previsão/especulação de imprensa especializada
 
 ## Outras oportunidades encontradas (se houver)
-Sem informação nova encontrada nesta busca.
+Nenhum outro concurso de TI na região Nordeste foi identificado nesta busca.
 
 ## Recomendação de ação
-Nenhuma ação necessária agora.
+nenhuma ação necessária agora
